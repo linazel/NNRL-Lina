@@ -2,10 +2,14 @@
 Tips for organizing research
 
 # Name?
-Lina Zelinger
+Jessica
+
 # What kind of scientist?
-Geneticist
+Physiologist
+
 # 3 experimets you have done recently?
-1. pull down of RNA-Protein complexes
-2. identified smORFs in retinal lncRNAs
-3. wrote a paper about TRPM1
+1. IHC
+
+2. Confocal imaging
+
+3. Western blot
